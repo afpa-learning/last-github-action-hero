@@ -1,7 +1,5 @@
 ![Logo Last Gihub Action Hero](git-assets/last-github-action-hero.svg)
 
-[![CI & CD (Bon cop, bad cop)](https://github.com/ludovic-esperce/last-github-action-hero/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/ludovic-esperce/last-github-action-hero/actions/workflows/ci-cd.yml)
-
 Atelier de découverte de GitHub Actions.
 
 Devenez le true **LAST GITHUB ACTION HERO!** Yippee kikay!
